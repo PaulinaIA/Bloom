@@ -1,7 +1,5 @@
 <div align="center">
 
-# Bloom
-
 ![mi imagen](assets/logo.png)
 
 **Tu fertilidad en tus manos**
